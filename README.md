@@ -1,18 +1,24 @@
-# Music App (Using Flutter)
 
-This app is a media app. This app is made in flutter technology. using provider state management. 
 
 # Interface Image & Video
 <h3> Music App Screen Images </h3>
-<p>
-<img src="https://user-images.githubusercontent.com/125340601/220852771-c46a60c5-2d3a-4bf4-a961-aa06e1053c7a.png" weight="500" height="600"/> 
-<img src="https://user-images.githubusercontent.com/125340601/220853072-85692534-25e2-45eb-9779-495ff4291119.png" weight="500" height="600"/></p>
+<p float="center">
+
+ <img src="https://user-images.githubusercontent.com/120629701/235666729-6fa790bc-f25d-4837-b4c7-6573b8f73b27.png" width=30% height=50%>
+ <img src="https://user-images.githubusercontent.com/120629701/235666760-32ec5f56-e747-4ffb-a288-e4fcea1dac96.png" width=30% height=50%>
+  <img src="https://user-images.githubusercontent.com/120629701/235666783-157a02c0-2c6d-41df-94b8-e96b2c9e0d40.png" width=30% height=50%>
+ 
+</p>
+
 
 <h3> Music App Screen Video </h3>
-<img src="https://user-images.githubusercontent.com/125340601/220853242-deb24f12-140a-40c7-9722-7d7a85454198.mp4" weight="450" height="550"/>
 
 
 
+
+
+
+https://user-images.githubusercontent.com/120629701/235666652-269bc963-9aab-499b-af3a-9701102588bd.mp4
 
 
 
